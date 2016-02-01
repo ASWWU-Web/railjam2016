@@ -5,7 +5,7 @@
     "ZURB <foundation@zurb.com>"
   ],
   "description": "Basic template for a new Foundation for Sites project.",
-  "main": "index.html",
+  "main": "site/index.html",
   "license": "MIT",
   "homepage": "http://foundation.zurb.com",
   "dependencies": {
