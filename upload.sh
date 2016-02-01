@@ -1,1 +1,1 @@
-scp -r index.html js/ img/ css/ bower_components/ ryan@aswwu.com:~/railjam
+scp -r index.html static/ img/ ryan@aswwu.com:~/railjam
